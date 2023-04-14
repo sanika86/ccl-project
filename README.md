@@ -1,2 +1,2 @@
 # ccl-project
-A complete responsive fashion website based on cloud computing services.
+A complete responsive fashion website in which I used cloud computing services.
